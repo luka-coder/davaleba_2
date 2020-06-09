@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\davaleba_2\5\HOmework_7\HOmework_7\bin\Debug\HOmework_7.exe.config
+C:\Users\User\Desktop\davaleba_2\5\HOmework_7\HOmework_7\bin\Debug\HOmework_7.exe
+C:\Users\User\Desktop\davaleba_2\5\HOmework_7\HOmework_7\bin\Debug\HOmework_7.pdb
+C:\Users\User\Desktop\davaleba_2\5\HOmework_7\HOmework_7\obj\Debug\HOmework_7.ResultForm.resources
+C:\Users\User\Desktop\davaleba_2\5\HOmework_7\HOmework_7\obj\Debug\HOmework_7.csproj.GenerateResource.cache
+C:\Users\User\Desktop\davaleba_2\5\HOmework_7\HOmework_7\obj\Debug\HOmework_7.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\davaleba_2\5\HOmework_7\HOmework_7\obj\Debug\HOmework_7.exe
+C:\Users\User\Desktop\davaleba_2\5\HOmework_7\HOmework_7\obj\Debug\HOmework_7.pdb
